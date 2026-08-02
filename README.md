@@ -145,6 +145,6 @@ Deduplication is handled at the query level (`LEFT JOIN notifications_read WHERE
 
 ### About this writeup
 
-I'm Hassan Nawaz, a senior full-stack engineer. I built this marketplace as an ongoing engagement with a Canadian M&A advisory firm (August 2025 to present). The live product handles real buyers, real deals, and real subscriptions daily. The client-visible portion is at their portal domain (private, confidential).
+I'm Hassan Nawaz, a senior full-stack engineer. I built this marketplace as an ongoing engagement with a Canadian M&A advisory firm (August 2025 to present). The live product handles real buyers, real deals, and real subscriptions daily.
 
 Contact: [stellaflo.com](https://stellaflo.com) · [linkedin.com/in/ehassannawaz](https://www.linkedin.com/in/ehassannawaz)
