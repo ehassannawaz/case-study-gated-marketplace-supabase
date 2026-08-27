@@ -1,6 +1,6 @@
 ## Gated B2B Marketplace on Supabase: Tiered Access, NDA Workflow, and RLS That Holds
 
-A pattern reference from building a live gated acquisition marketplace for a Canadian M&A advisory firm. The product connects qualified buyers with confidential deal opportunities across a three-tier freemium model, with digital NDA capture, in-portal PDF generation, admin moderation, and bi-directional CRM sync.
+A pattern reference from building a live gated acquisition marketplace for OpnRoad M&A, a Canadian M&A advisory firm. The product connects qualified buyers with confidential deal opportunities across a three-tier freemium model, with digital NDA capture, in-portal PDF generation, admin moderation, and bi-directional CRM sync.
 
 This repo contains no client code, no deal data, no buyer profiles, no real financials, and no proprietary business logic. It's an architecture writeup of the patterns used to build a marketplace where "who can see what" is legally load-bearing.
 
@@ -145,6 +145,6 @@ Deduplication is handled at the query level (`LEFT JOIN notifications_read WHERE
 
 ### About this writeup
 
-I'm Hassan Nawaz, a senior full-stack engineer. I built this marketplace as an ongoing engagement with a Canadian M&A advisory firm (August 2025 to present). The live product handles real buyers, real deals, and real subscriptions daily.
+I'm Hassan Nawaz, a senior full-stack engineer. I built this marketplace as an ongoing engagement with OpnRoad M&A (August 2025 to present). The live product handles real buyers, real deals, and real subscriptions daily.
 
 Contact: [stellaflo.com](https://stellaflo.com) · [linkedin.com/in/ehassannawaz](https://www.linkedin.com/in/ehassannawaz)
